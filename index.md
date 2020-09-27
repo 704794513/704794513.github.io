@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+### 个人简介
+<table>
+  <tr>
+    <td width="75%">
+      <h1>焦毫磊</h1>
+      <p><b>21岁</b></p>
+      <p><b>本科毕业生</b></p>
+      <p><b>石家庄铁道大学信息科学与技术学院</b></p>
+      <p><b>邮箱：704794513@qq.com</b></p>
+      <p><b>地址：石家庄市长安区北二环东路17号石家庄铁道大学，邮编050000</b></p>
+    </td>
+    <td width="25%">
+      <img src="/jhl.JPG" width="100%">   
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/704794513/704794513.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 学习情况
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 在校期间成绩优异，积极配合老师并完成每项作业，始终对学习充满热情，积极向上
+#### 积极参加如软件杯等软件开发比赛，并获得软件著作权
 
-### Markdown
+### 社会活动情况
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 在校艺术团合唱团组织策划并参加了多场大型文艺汇演
+#### 在疫情期间，积极响应国家号召，在家乡参与前线疫情支援协助活动
+#### 在校积极参加多项社会实践活动，包括教育等方面，并且积极配合党的要求，曾获优秀团员称号
 
-```markdown
-Syntax highlighted code block
+### 专业实践情况
 
-# Header 1
-## Header 2
-### Header 3
+#### 
+#### 
+#### 
+#### 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 专业技能展示
 
-**Bold** and _Italic_ and `Code` text
+#### 
+#### 
+#### 
+#### 
 
-[Link](url) and ![Image](src)
-```
+### 专业博客发表
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/704794513/704794513.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 
+#### 
+#### 
+#### 
