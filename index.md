@@ -10,7 +10,7 @@
       <p><b>地址：石家庄市长安区北二环东路17号石家庄铁道大学，邮编050000</b></p>
     </td>
     <td width="25%">
-      <img src="/" width="100%">   
+      <img src="/jhl.JPG" width="100%">   
     </td>
   </tr>
 </table>
